@@ -1,6 +1,6 @@
 # Creating the Pascal's Triangle
 
-This code has been implemented to calculate the Pascal's Triangle.
+This code has been implemented to calculate the Pascal's Triangle using Python.
 
 You would need to change the value of n in the code in order to change the length of the triangle.
 
