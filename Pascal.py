@@ -4,6 +4,7 @@
 
 def pas(n):
     a=[[1,1]]
+    n=n-1
     for j in range(n):
         b=[1]*(len(a[j])+1)
         for i in range(1,len(a[j])):
